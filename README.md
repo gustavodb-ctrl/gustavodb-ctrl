@@ -10,7 +10,9 @@ I work as a QA Analyst.
 
 <div>
 <a href="https://github.com/gustavodb-ctrl">
+<!--
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodb-ctrl&layout=compact&langs_count=7&theme=dracula"/> 
+ -->
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodb-ctrl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
